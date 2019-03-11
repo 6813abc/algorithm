@@ -13,13 +13,10 @@ package com.cyg.suanfa.algorithm;
  **/
 public class InsertSort {
 
-
     public int[] soft(int[] arr) {
-
         for (int i = 1; i < arr.length; i++) {
             int insertValue = arr[i];
             int index = i - 1;
-
             while (index >= 0 && insertValue < arr[index]) {
                 arr[index + 1] = arr[index];
                 index--;

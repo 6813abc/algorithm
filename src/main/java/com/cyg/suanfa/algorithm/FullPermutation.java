@@ -20,7 +20,7 @@ public class FullPermutation {
             PermutationHelper(str.toCharArray(), 0, list);
             Collections.sort(list);
         }
-        
+
         return list;
     }
 
