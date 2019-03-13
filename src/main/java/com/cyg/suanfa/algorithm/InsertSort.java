@@ -12,7 +12,7 @@ package com.cyg.suanfa.algorithm;
  * @date 2019/3/6 下午1:57
  **/
 public class InsertSort {
-
+    
     public int[] soft(int[] arr) {
         for (int i = 1; i < arr.length; i++) {
             int insertValue = arr[i];
