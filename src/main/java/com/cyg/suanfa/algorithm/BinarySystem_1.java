@@ -22,7 +22,7 @@ public class BinarySystem_1 {
     }
 
     /**
-     * 将这个数变为char数组,再遍历判断
+     * 将这个数变为char数组,再遍历判断1的个数
      **/
     public int NumberOf1_1(int n) {
         char[] str = Integer.toBinaryString(n).toCharArray();
