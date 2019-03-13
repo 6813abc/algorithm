@@ -23,7 +23,7 @@ public class FullPermutation {
 
         return list;
     }
-
+    
     private void PermutationHelper(char[] chars, int i, ArrayList<String> list) {
         if (i == chars.length - 1) {
             list.add(String.valueOf(chars));
