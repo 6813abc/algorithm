@@ -21,7 +21,7 @@ public class PrintFromTopToBottom {
         }
     }
 
-    public ArrayList<Integer> PrintFromTopToBottom(TreeNode root) {
+    public ArrayList<Integer> printFromTopToBottom(TreeNode root) {
         ArrayList<Integer> list = new ArrayList<Integer>();
         if (root == null) {
             return list;
