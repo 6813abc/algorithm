@@ -22,10 +22,10 @@ public class FindGreatestSumOfSubArray {
         int max = array[0];
         for (int i = 0; i < array.length; i++) {
             int count = array[i];
+            if (count > max) {
+                max = count;
+            }
             for (int j = i + 1; j < array.length; j++) {
-                if (count > max) {
-                    max = count;
-                }
                 count += array[j];
                 if (count > max) {
                     max = count;
