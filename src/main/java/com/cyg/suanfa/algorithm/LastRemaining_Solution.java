@@ -13,7 +13,7 @@ package com.cyg.suanfa.algorithm;
  * 请你试着想下,哪个小朋友会得到这份礼品呢？(注：小朋友的编号是从0到n-1)
  * <p>
  * <p>
- * f[1]=0;
+ * f[1]=0;             (i=1)
  * f[i]=(f[i-1]+m)%i;  (i>1)
  *
  * @author cyg
