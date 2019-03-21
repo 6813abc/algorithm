@@ -16,11 +16,14 @@ public class LeftRotateString {
         String[] array = new String[str.length()];
         for (int i = 0; i < str.length(); i++) {
             if (i < n) {
+                //在n之前的数提到最后去
                 array[str.length() - n + i] = str.substring(i, i + 1);
             } else {
+                //在n之后的数提到n之前去
                 array[i - n] = str.substring(i, i + 1);
             }
         }
+        //拼接字符串数组
         for (int i = 0; i < array.length; i++) {
             s.append(array[i]);
         }
