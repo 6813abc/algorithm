@@ -7,6 +7,7 @@
 | 3 | [插入排序](src/main/java/com/cyg/suanfa/algorithm/InsertSort.java)| 排序 |
 | 4 | [归并(Merge)排序法](src/main/java/com/cyg/suanfa/algorithm/MergeSort.java)| 排序 |
 | 5 | [希尔排序](src/main/java/com/cyg/suanfa/algorithm/ShellSort.java)| 排序 |
+| 6 | [二分查找](src/main/java/com/cyg/suanfa/algorithm/TwoPointsSearch.java)| 查找 |
 
 # 剑指offer刷题
 
@@ -27,7 +28,10 @@
 | 13| [左旋转字符串](src/main/java/com/cyg/suanfa/algorithm/LeftRotateString.java)| 知识迁移能力 |
 | 14| [旋转数组的最小数字](src/main/java/com/cyg/suanfa/algorithm/MinNumberInRotateArray.java) | 查找和排序 |
 | 15| [构建乘积数组](src/main/java/com/cyg/suanfa/algorithm/Multiply.java) | 数组  |
-| 16| []
+| 16| [从上往下打印二叉树](src/main/java/com/cyg/suanfa/algorithm/PrintFromTopToBottom.java) | 举例让抽象具体化 |
+| 17| [反转链表](src/main/java/com/cyg/suanfa/algorithm/ReverseList.java) | 代码的鲁棒性  |
+| 18| [求1+2+3+...+n](src/main/java/com/cyg/suanfa/algorithm/Sum_Solution.java) | 发散思维能力  |
+| 19| [二叉搜索树的后序遍历序列](src/main/java/com/cyg/suanfa/algorithm/VerifySquenceOfBST.java) | 举例让抽象具体化   |
 
 # 其他算法题记录
 
