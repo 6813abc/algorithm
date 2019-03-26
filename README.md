@@ -1,14 +1,14 @@
 # Java常用算法
 
 | 序号 | 题目 | 类文件 | 类型 |
-| ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | 
 | 1 | [冒泡排序算法](src/main/java/com/cyg/suanfa/algorithm/BubbleSort.java) | BubbleSort.java | 
 | 2 | [快速排序](src/main/java/com/cyg/suanfa/algorithm/FastSort.java) | FastSort.java | 排序 |
 
 # 剑指offer刷题
 
-| 序号 | 题目 | 类文件 | 类型 | 链接 | 
-| ------ | ------ | ------ | ------ | ------ |
+| 序号 | 题目 | 类文件 | 类型 | 
+| ------ | ------ | ------ | ------ |
 | 1 | [不用加减乘除做加法](src/main/java/com/cyg/suanfa/algorithm/Add.java)| Add.java | 发散思维能力 | 
 | 2 | [二进制中1的个数](src/main/java/com/cyg/suanfa/algorithm/BinarySystem_1.java) | BinarySystem_1.java | 位运算 |
 | 3 | [连续子数组的最大和](src/main/java/com/cyg/suanfa/algorithm/FindGreatestSumOfSubArray.java) | FindGreatestSumOfSubArray.java |
@@ -25,7 +25,7 @@
 
 # 其他算法题记录
 
-| 序号 | 题目 | 类文件 | 类型 | 链接 | 
-| ------ | ------ | ------ | ------ | ------ |
+| 序号 | 题目 | 类文件 | 类型 |
+| ------ | ------ | ------ | ------ |
 | 1 | [求一个字符串最长不重复子串](src/main/java/com/cyg/suanfa/algorithm/LongestNonRepeatingSubstring.java) | LongestNonRepeatingSubstring.java | 字符串 |
 | 2 | [求全排列](src/main/java/com/cyg/suanfa/algorithm/FullPermutation.java) | FullPermutation.java | 字符串 | 
