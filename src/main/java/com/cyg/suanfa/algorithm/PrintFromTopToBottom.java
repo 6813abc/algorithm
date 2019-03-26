@@ -5,8 +5,10 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
+ * 从上往下打印二叉树:
  * 从上往下打印出二叉树的每个节点，同层节点从左至右打印:
  * 利用队列的先进先出的特性
+ *
  * @author cyg
  * @date 2019/3/13 下午8:45
  **/
