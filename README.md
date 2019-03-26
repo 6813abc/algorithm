@@ -25,6 +25,9 @@
 | 11| [栈的压入、弹出序列](src/main/java/com/cyg/suanfa/algorithm/IsPopOrder.java)| 举例让抽象具体化 |
 | 12| [孩子们的游戏(圆圈中最后剩下的数)](src/main/java/com/cyg/suanfa/algorithm/LastRemaining_Solution.java) | 抽象建模能力 |
 | 13| [左旋转字符串](src/main/java/com/cyg/suanfa/algorithm/LeftRotateString.java)| 知识迁移能力 |
+| 14| [旋转数组的最小数字](src/main/java/com/cyg/suanfa/algorithm/MinNumberInRotateArray.java) | 查找和排序 |
+| 15| [构建乘积数组](src/main/java/com/cyg/suanfa/algorithm/Multiply.java) | 数组  |
+| 16| []
 
 # 其他算法题记录
 
