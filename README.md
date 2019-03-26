@@ -4,8 +4,9 @@
 | ------ | ------ | ------ | 
 | 1 | [冒泡排序算法](src/main/java/com/cyg/suanfa/algorithm/BubbleSort.java) |  排序 |
 | 2 | [快速排序](src/main/java/com/cyg/suanfa/algorithm/FastSort.java) | 排序 |
-| 3 | [插入排序](src/main/java/com/cyg/suanfa/algorithm/InsertSort.java)
+| 3 | [插入排序](src/main/java/com/cyg/suanfa/algorithm/InsertSort.java)| 排序 |
 | 4 | [归并(Merge)排序法](src/main/java/com/cyg/suanfa/algorithm/MergeSort.java)| 排序 |
+| 5 | [希尔排序](src/main/java/com/cyg/suanfa/algorithm/ShellSort.java)| 排序 |
 
 # 剑指offer刷题
 
