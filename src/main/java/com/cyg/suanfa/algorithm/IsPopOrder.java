@@ -2,7 +2,7 @@ package com.cyg.suanfa.algorithm;
 
 import java.util.Stack;
 
-/**
+/**栈的压入、弹出序列:
  * 题目描述(剑指offer):
  * 输入两个整数序列，
  * 第一个序列表示栈的压入顺序，
