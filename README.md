@@ -7,9 +7,9 @@
 
 # 剑指offer刷题
 
-| 序号 | 题目 | 类文件 | 类型 |
-| ------ | ------ | ------ | ------ |
-| 1 | 不用加减乘除做加法| Add.java | 发散思维能力 |
+| 序号 | 题目 | 类文件 | 类型 | 链接 | 
+| ------ | ------ | ------ | ------ | ------ |
+| 1 | 不用加减乘除做加法| Add.java | 发散思维能力 | https://github.com/6813abc/suanfa/blob/master/src/main/java/com/cyg/suanfa/algorithm/Add.java|
 | 2 | 二进制中1的个数 | BinarySystem_1.java | 位运算 |
 | 3 | 连续子数组的最大和 | FindGreatestSumOfSubArray.java | 时间效率 |
 | 4 | 链表中倒数第k个结点 | FindGreatestSumOfSubArray.java | 代码的鲁棒性 |
