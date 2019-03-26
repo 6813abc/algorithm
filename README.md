@@ -1,7 +1,7 @@
 # Java常用算法
 
-| 序号 | 题目 | 类文件 | 类型 |
-| ------ | ------ | ------ | ------ |
+| 序号 | 题目 | 类文件 | 类型 | 链接 | 
+| ------ | ------ | ------ | ------ | ------ |
 | 1 | 冒泡排序算法 | BubbleSort.java | 排序 |
 https://github.com/6813abc/suanfa/blob/master/src/main/java/com/cyg/suanfa/algorithm/BubbleSort.java |
 
@@ -55,8 +55,8 @@ https://github.com/6813abc/suanfa/blob/master/src/main/java/com/cyg/suanfa/algor
 
 # 其他算法题记录
 
-| 序号 | 题目 | 类文件 | 类型 |
-| ------ | ------ | ------ | ------ |
+| 序号 | 题目 | 类文件 | 类型 | 链接 | 
+| ------ | ------ | ------ | ------ | ------ |
 | 1 | 求一个字符串最长不重复子串 | LongestNonRepeatingSubstring.java | 字符串 |
 https://github.com/6813abc/suanfa/blob/master/src/main/java/com/cyg/suanfa/algorithm/LongestNonRepeatingSubstring.java |
 | 2 | 求全排列 | FullPermutation.java | 字符串 | 
