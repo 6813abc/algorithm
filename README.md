@@ -15,4 +15,5 @@
 | 7 | 字符流中第一个不重复的字符 | FirstAppearingOnce.java | 字符串 |
 | 8 | 丑数 | GetUglyNumber_Solution.java | 时间空间效率的平衡 |
 | 9 | 数组中的逆序对 | InversePairs.java |  时间空间效率的平衡 |
+| 10| 扑克牌顺子 | IsContinuous.java | 抽象建模能力 |
 
