@@ -3,8 +3,10 @@
 | 序号 | 题目 | 类型 |
 | ------ | ------ | ------ | 
 | 1 | [冒泡排序算法](src/main/java/com/cyg/suanfa/algorithm/BubbleSort.java) |  排序 |
-| 2 | [快速排序](src/main/java/com/cyg/suanfa/algorithm/FastSort.java) |  排序 |
+| 2 | [快速排序](src/main/java/com/cyg/suanfa/algorithm/FastSort.java) | 排序 |
 | 3 | [插入排序](src/main/java/com/cyg/suanfa/algorithm/InsertSort.java)
+| 4 | [归并(Merge)排序法](src/main/java/com/cyg/suanfa/algorithm/MergeSort.java)| 排序 |
+
 # 剑指offer刷题
 
 | 序号 | 题目 | 类型 | 
@@ -25,7 +27,7 @@
 
 # 其他算法题记录
 
-| 序号 | 题目 | 类文件 | 类型 |
-| ------ | ------ | ------ | ------ |
+| 序号 | 题目 | | 类型 |
+| ------ | ------ | ------ |
 | 1 | [求一个字符串最长不重复子串](src/main/java/com/cyg/suanfa/algorithm/LongestNonRepeatingSubstring.java)| 字符串 |
 | 2 | [求全排列](src/main/java/com/cyg/suanfa/algorithm/FullPermutation.java)| 字符串 | 
