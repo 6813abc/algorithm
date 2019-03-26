@@ -11,7 +11,7 @@
 | ------ | ------ | ------ | ------ |
 | 1 | [不用加减乘除做加法](src/main/java/com/cyg/suanfa/algorithm/Add.java)| Add.java | 发散思维能力 | 
 | 2 | [二进制中1的个数](src/main/java/com/cyg/suanfa/algorithm/BinarySystem_1.java) | BinarySystem_1.java | 位运算 |
-| 3 | [连续子数组的最大和](src/main/java/com/cyg/suanfa/algorithm/FindGreatestSumOfSubArray.java) | FindGreatestSumOfSubArray.java |
+| 3 | [连续子数组的最大和](src/main/java/com/cyg/suanfa/algorithm/FindGreatestSumOfSubArray.java) | FindGreatestSumOfSubArray.java | 时间效率 |
 | 4 | [链表中倒数第k个结点](src/main/java/com/cyg/suanfa/algorithm/FindGreatestSumOfSubArray.java)  | FindGreatestSumOfSubArray.java | 代码的鲁棒性 |
 | 5 | [和为S的两个数字](src/main/java/com/cyg/suanfa/algorithm/FindNumbersWithSum.java) | FindNumbersWithSum.java | 知识迁移能力 |
 | 6 | [数组中只出现一次的数字](src/main/java/com/cyg/suanfa/algorithm/FindNumsAppearOnce.java)  | FindNumsAppearOnce.java | 知识迁移能力 |
