@@ -1,5 +1,8 @@
-# java常用算法
-
+# Java常用算法
+| 序号 | 题目 | 类文件 | 类型 |
+| ------ | ------ | ------ | ------ |
+| 1 | 冒泡排序算法 | BubbleSort.java | 排序 |
+| 2 | 快速排序 | FastSort.java | 排序 |
 
 
 # 剑指offer刷题
@@ -16,4 +19,13 @@
 | 8 | 丑数 | GetUglyNumber_Solution.java | 时间空间效率的平衡 |
 | 9 | 数组中的逆序对 | InversePairs.java |  时间空间效率的平衡 |
 | 10| 扑克牌顺子 | IsContinuous.java | 抽象建模能力 |
+| 11| 栈的压入、弹出序列 | IsPopOrder.java | 举例让抽象具体化 |
+| 12| 孩子们的游戏(圆圈中最后剩下的数) | LastRemaining_Solution | 抽象建模能力 |
+| 13| 左旋转字符串 | LeftRotateString.java | 知识迁移能力 |
 
+
+# 面试算法题记录
+
+| 序号 | 题目 | 类文件 | 类型 |
+| ------ | ------ | ------ | ------ |
+| 1 | 求一个字符串最长不重复子串 | LongestNonRepeatingSubstring.java | 字符串 |
