@@ -24,8 +24,9 @@
 | 13| 左旋转字符串 | LeftRotateString.java | 知识迁移能力 |
 
 
-# 面试算法题记录
+# 其他算法题记录
 
 | 序号 | 题目 | 类文件 | 类型 |
 | ------ | ------ | ------ | ------ |
 | 1 | 求一个字符串最长不重复子串 | LongestNonRepeatingSubstring.java | 字符串 |
+| 2 | 求全排列 | FullPermutation.java | 字符串 | 
