@@ -2,7 +2,7 @@
 
 | 序号 | 题目 | 类文件 | 类型 | 链接 | 
 | ------ | ------ | ------ | ------ | ------ |
-| 1 | 冒泡排序算法 | BubbleSort.java | 排序 |src/main/java/com/cyg/suanfa/algorithm/BubbleSort.java |
+| 1 | 冒泡排序算法 | BubbleSort.java | 排序 |[链接](src/main/java/com/cyg/suanfa/algorithm/BubbleSort.java) |
 | 2 | 快速排序 | FastSort.java | 排序 |https://github.com/6813abc/suanfa/blob/master/src/main/java/com/cyg/suanfa/algorithm/FastSort.java |
 
 
