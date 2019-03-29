@@ -33,6 +33,9 @@
 | 18| [求1+2+3+...+n](src/main/java/com/cyg/suanfa/algorithm/Sum_Solution.java) | 发散思维能力  |
 | 19| [二叉搜索树的后序遍历序列](src/main/java/com/cyg/suanfa/algorithm/VerifySquenceOfBST.java) | 举例让抽象具体化   |
 | 20| [二叉树的镜像](src/main/java/com/cyg/suanfa/algorithm/Mirror.java) | 面试思路   |
+| 21| [二叉树的深度 ](src/main/java/com/cyg/suanfa/algorithm/TreeDepth.java) | 知识迁移能力    |
+
+
 # 其他算法题记录
 
 | 序号 | 题目 |  类型 |
