@@ -42,6 +42,7 @@
 | 27| [数组中重复的数字](src/main/java/com/cyg/suanfa/algorithm/Duplicate.java) |  数组   	  |
 | 28| [二叉树的下一个结点](src/main/java/com/cyg/suanfa/algorithm/GetNext.java) |  树    	  |
 | 29| [对称的二叉树 ](src/main/java/com/cyg/suanfa/algorithm/IsSymmetrical.java) |  树    	  |
+| 30| [顺时针打印矩阵 ](src/main/java/com/cyg/suanfa/algorithm/PrintMatrix.java) |  画图让抽象形象化  |
 
 
 # 其他算法题记录
