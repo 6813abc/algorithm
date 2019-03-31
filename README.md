@@ -34,6 +34,7 @@
 | 19| [二叉搜索树的后序遍历序列](src/main/java/com/cyg/suanfa/algorithm/VerifySquenceOfBST.java) | 举例让抽象具体化   |
 | 20| [二叉树的镜像](src/main/java/com/cyg/suanfa/algorithm/Mirror.java) | 面试思路   |
 | 21| [二叉树的深度 ](src/main/java/com/cyg/suanfa/algorithm/TreeDepth.java) | 知识迁移能力    |
+| 22| [平衡二叉树 ](src/main/java/com/cyg/suanfa/algorithm/IsBalanced_Solution.java) | 知识迁移能力    |
 
 
 # 其他算法题记录
