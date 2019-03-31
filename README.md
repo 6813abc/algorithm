@@ -37,6 +37,7 @@
 | 22| [平衡二叉树 ](src/main/java/com/cyg/suanfa/algorithm/IsBalanced_Solution.java) | 知识迁移能力    |
 | 23| [二叉搜索树与双向链表 ](src/main/java/com/cyg/suanfa/algorithm/Convert.java) | 分解让复杂问题简单 	    |
 | 24| [数字在排序数组中出现的次数 ](src/main/java/com/cyg/suanfa/algorithm/GetNumberOfK.java) | 知识迁移能力 	  |
+| 25| [和为S的连续正数序列 ](src/main/java/com/cyg/suanfa/algorithm/FindContinuousSequence.java) |  知识迁移能力 	  |
 
 
 # 其他算法题记录
