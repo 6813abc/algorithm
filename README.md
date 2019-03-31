@@ -33,13 +33,13 @@
 | 18| [求1+2+3+...+n](src/main/java/com/cyg/suanfa/algorithm/Sum_Solution.java) | 发散思维能力  |
 | 19| [二叉搜索树的后序遍历序列](src/main/java/com/cyg/suanfa/algorithm/VerifySquenceOfBST.java) | 举例让抽象具体化   |
 | 20| [二叉树的镜像](src/main/java/com/cyg/suanfa/algorithm/Mirror.java) | 面试思路   |
-| 21| [二叉树的深度 ](src/main/java/com/cyg/suanfa/algorithm/TreeDepth.java) | 知识迁移能力    |
-| 22| [平衡二叉树 ](src/main/java/com/cyg/suanfa/algorithm/IsBalanced_Solution.java) | 知识迁移能力    |
-| 23| [二叉搜索树与双向链表 ](src/main/java/com/cyg/suanfa/algorithm/Convert.java) | 分解让复杂问题简单 	    |
-| 24| [数字在排序数组中出现的次数 ](src/main/java/com/cyg/suanfa/algorithm/GetNumberOfK.java) | 知识迁移能力 	  |
-| 25| [和为S的连续正数序列 ](src/main/java/com/cyg/suanfa/algorithm/FindContinuousSequence.java) |  知识迁移能力 	  |
-| 26| [把字符串转换成整数 ](src/main/java/com/cyg/suanfa/algorithm/StrToInt.java) |  综合  	  |
-| 27| [数组中重复的数字 ](src/main/java/com/cyg/suanfa/algorithm/Duplicate.java) |  数组   	  |
+| 21| [二叉树的深度](src/main/java/com/cyg/suanfa/algorithm/TreeDepth.java) | 知识迁移能力    |
+| 22| [平衡二叉树](src/main/java/com/cyg/suanfa/algorithm/IsBalanced_Solution.java) | 知识迁移能力    |
+| 23| [二叉搜索树与双向链表](src/main/java/com/cyg/suanfa/algorithm/Convert.java) | 分解让复杂问题简单 	    |
+| 24| [数字在排序数组中出现的次数](src/main/java/com/cyg/suanfa/algorithm/GetNumberOfK.java) | 知识迁移能力 	  |
+| 25| [和为S的连续正数序列](src/main/java/com/cyg/suanfa/algorithm/FindContinuousSequence.java) |  知识迁移能力 	  |
+| 26| [把字符串转换成整数](src/main/java/com/cyg/suanfa/algorithm/StrToInt.java) |  综合  	  |
+| 27| [数组中重复的数字](src/main/java/com/cyg/suanfa/algorithm/Duplicate.java) |  数组   	  |
 
 
 # 其他算法题记录
