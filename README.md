@@ -39,6 +39,7 @@
 | 24| [数字在排序数组中出现的次数 ](src/main/java/com/cyg/suanfa/algorithm/GetNumberOfK.java) | 知识迁移能力 	  |
 | 25| [和为S的连续正数序列 ](src/main/java/com/cyg/suanfa/algorithm/FindContinuousSequence.java) |  知识迁移能力 	  |
 | 26| [把字符串转换成整数 ](src/main/java/com/cyg/suanfa/algorithm/StrToInt.java) |  综合  	  |
+| 27| [数组中重复的数字 ](src/main/java/com/cyg/suanfa/algorithm/Duplicate.java) |  数组   	  |
 
 
 # 其他算法题记录
