@@ -40,6 +40,7 @@
 | 25| [和为S的连续正数序列](src/main/java/com/cyg/suanfa/algorithm/FindContinuousSequence.java) |  知识迁移能力 	  |
 | 26| [把字符串转换成整数](src/main/java/com/cyg/suanfa/algorithm/StrToInt.java) |  综合  	  |
 | 27| [数组中重复的数字](src/main/java/com/cyg/suanfa/algorithm/Duplicate.java) |  数组   	  |
+| 28| [二叉树的下一个结点](src/main/java/com/cyg/suanfa/algorithm/GetNext.java) |  树    	  |
 
 
 # 其他算法题记录
