@@ -44,6 +44,7 @@
 | 29| [对称的二叉树 ](src/main/java/com/cyg/suanfa/algorithm/IsSymmetrical.java) |  树    	  |
 | 30| [顺时针打印矩阵 ](src/main/java/com/cyg/suanfa/algorithm/PrintMatrix.java) |  画图让抽象形象化  |
 | 31| [把二叉树打印成多行 ](src/main/java/com/cyg/suanfa/algorithm/Print.java) |  树   |
+| 32| [最小步数移动到数组末尾 ](src/main/java/com/cyg/suanfa/algorithm/MinimumStepNumber.java) |  数组  |
 
 
 # 其他算法题记录
@@ -52,3 +53,4 @@
 | ------ | ------ | ------ |
 | 1 | [求一个字符串最长不重复子串](src/main/java/com/cyg/suanfa/algorithm/LongestNonRepeatingSubstring.java)| 字符串 |
 | 2 | [求全排列](src/main/java/com/cyg/suanfa/algorithm/FullPermutation.java)| 字符串 | 
+
