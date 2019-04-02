@@ -12,6 +12,8 @@ package com.cyg.suanfa.algorithm;
  **/
 public class MinimumStepNumber {
 
+    //维持两个指针，一个表示当前最远可以跳到哪一步，
+    // 一个表示下一步最远可以跳到哪一步。遍历原数组同时更新指针。
     public int minimumStepNumber(int[] a) {
         int cur = 0;
         int far = a[0];
@@ -31,14 +33,51 @@ public class MinimumStepNumber {
             }
             step++;
             cur = nextStep;
+        }
+        return -1;
+    }
 
+    public int minimumStepNumber1(int[] nums) {
+        //记录步数
+        int step = 0;
+        //记录本次移动了几步
+        int temp = 0;
+        if (nums.length == 1) {
+            return 0;
+        }
+        if (nums[0] >= nums.length - 1) {
+            return step + 1;
+        }
+        for (int i = 0; i < nums.length; ) {
+            //记录从当前位置经过两次跳跃能达到的最大距离
+            int longestDistance = 0;
+            for (int j = 1; j <= nums[i]; j++) {
+                //判断接下来一次跳跃能否到达最后一个点,能的话就返回 step+1
+                if (i + j >= nums.length - 1) {
+                    return step + 1;
+                }
+                //判断接下来两次跳跃能否到达最后一个点,能的话就返回 step+2
+                if (i + j + nums[i + j] >= nums.length - 1) {
+                    return step + 2;
+                }
+                if (j + nums[i + j] > longestDistance) {
+                    longestDistance = j + nums[i + j];
+                    temp = j;
+                }
+            }
+            i = i + temp;
+            step++;
         }
         return -1;
     }
 
     public static void main(String[] args) {
         MinimumStepNumber minimumStepNumber = new MinimumStepNumber();
-        int[] a = {3, 4, 2, 1, 3, 1};
-        System.out.println(minimumStepNumber.minimumStepNumber(a));
+        int[] a = {0};
+        int[] b = {3, 7, 5, 4, 2};
+        int[] c = {3, 7, 5, 4, 2, 6, 4};
+        System.out.println(minimumStepNumber.minimumStepNumber(a) + "," + minimumStepNumber.minimumStepNumber1(a));
+        System.out.println(minimumStepNumber.minimumStepNumber(b) + "," + minimumStepNumber.minimumStepNumber1(b));
+        System.out.println(minimumStepNumber.minimumStepNumber(c) + "," + minimumStepNumber.minimumStepNumber1(c));
     }
 }
