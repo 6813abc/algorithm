@@ -45,6 +45,7 @@
 | 30| [顺时针打印矩阵 ](src/main/java/com/cyg/suanfa/algorithm/PrintMatrix.java) |  画图让抽象形象化  |
 | 31| [把二叉树打印成多行 ](src/main/java/com/cyg/suanfa/algorithm/Print.java) |  树   |
 | 32| [最小步数移动到数组末尾 ](src/main/java/com/cyg/suanfa/algorithm/MinimumStepNumber.java) |  数组  |
+| 33| [二叉树中和为某一值的路径 ](src/main/java/com/cyg/suanfa/algorithm/FindPath.java) |  举例让抽象具体化  |
 
 
 # 其他算法题记录
